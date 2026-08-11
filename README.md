@@ -1,2 +1,2 @@
 # Colias Heat Shock Experiment
-## All the data document are here
+## This Folder is for in-lab Colias heat shock experiment. 
